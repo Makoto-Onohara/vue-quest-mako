@@ -32,7 +32,7 @@
                     type="button"
                     x-large
                 >
-                    CLICK!
+                    <span style="color: white">CLICK!</span>
                 </v-btn>
             </v-form>
             </v-container>
